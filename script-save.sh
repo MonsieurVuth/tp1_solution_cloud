@@ -1,6 +1,5 @@
 #/bin/bash
 DATE=`date +%Y-%m-%d`
-#ORIGIN=root@192.168.33.200:/var/www/html/nextcloud
 
  mkdir -p sauvegarde-web
 
